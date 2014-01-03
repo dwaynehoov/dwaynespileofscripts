@@ -1,5 +1,6 @@
 #!/usr/bin/python
 
+# typically I would use the requests module, makes this much easier, but the environment I was using only had base python 2.6 available
 import httplib
 import base64
 import string
