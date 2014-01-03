@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 import httplib
 import base64
 import string
