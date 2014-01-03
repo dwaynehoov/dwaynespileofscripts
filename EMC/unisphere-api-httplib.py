@@ -8,7 +8,7 @@ import json
 import time
  
 host = "hostnameorIP"
-port = 0443 #default unisphere API port
+port = 8443 #default unisphere API port
 url = "/univmax/restapi/performance/Array/metrics" #this can change to match the data you are interested in, refer to EMC schemas
 username = 'username'
 password = 'password'
